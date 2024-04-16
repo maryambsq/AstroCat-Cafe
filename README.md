@@ -31,9 +31,7 @@ The project consists of HTML files for the website's structure and content, alon
 - Responsive design that ensures optimal viewing across various devices and screem sizes.
 
 ## Contributing
-Contributions to the AstroCat Café project are welcome! Whether you're fixing a bug, implementing a new feature, or improving the design, your contributions help make the project better for everyone.
-
-Thank you for visiting AstroCat Café! We hope you enjoy your virtual experience and look forward to welcoming you in person! 🚀🐱☕️
+Contributions to the AstroCat Café project are welcome! Whether you're fixing a bug, implementing a new feature, or improving the design, your contributions help make the project better for everyone. 🚀🐱☕️
 
 
 
